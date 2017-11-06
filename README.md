@@ -1,0 +1,2 @@
+# FuncRand
+Função rand()
